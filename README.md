@@ -1,13 +1,14 @@
-# EX NO: Cloud-account-set-up-and-services
-~~~
-Name : K.KAVIHARATHI
 
-Reg no: 212224220045
-~~~
-# Aim:
+## EX NO:1 Cloud-account-set-up-and-services
+
+### Name : KAVIBHARATHI K
+
+### Reg no: 212224220045
+
+## Aim:
 To create an cloud account in AWS and to explore all of its services.
 
-# Procedure
+## Procedure
 # Step 1: Go to the AWS Website
 • Visit https://aws.amazon.com
 
@@ -38,8 +39,7 @@ Note: You won’t be charged immediately. AWS offers a Free Tier, but entering c
 • Enter the code to confirm your identity.
 
 # Step 6: Choose a Support Plan
-Choose one of the following:
-• Basic Support (Free)
+Choose one of the following: • Basic Support (Free)
 
 • Developer Support
 
@@ -59,33 +59,31 @@ For most beginners, select Basic Support.
 
 • Log in using your email and password to start using AWS services.
 
-
 # Create a user with administrative access
 After you sign up for an AWS account, secure your AWS account root user, enable AWS IAM Identity Center, and create an administrative user so that you don't use the root user for everyday tasks.
 
-
 # Secure your AWS account root user
-Sign in to the AWS Management Console (https://console.aws.amazon.com) as the account owner by choosing Root user and entering your AWS account email address. On the next page, enter your password.
-Turn on multi-factor authentication (MFA) for your root user.
+Sign in to the AWS Management Console (https://console.aws.amazon.com) as the account owner by choosing Root user and entering your AWS account email address. On the next page, enter your password. Turn on multi-factor authentication (MFA) for your root user.
 
 # Create user with administrative access
-Enable IAM Identity Center.
-In IAM Identity Center, grant administrative access to a user.
+Enable IAM Identity Center. In IAM Identity Center, grant administrative access to a user.
 
 # Sign in as the user with administrative access
 To sign in with your IAM Identity Center user, use the sign-in URL that was sent to your email address when you created the IAM Identity Center user.
 
-
 # Services Overview:
 • Explore all the available services in AWS platform.
-# Output:
 
-![image](https://github.com/user-attachments/assets/54122f2f-f156-4b78-9b07-730a343f511d)
+## Output:
 
-![image](https://github.com/user-attachments/assets/6151762a-f261-4c40-adbe-37a6b38cd2d0)
+<img width="1919" height="993" alt="cctask1" src="https://github.com/user-attachments/assets/f7e9e1ce-c97b-40d5-ac3e-e870ce08e0fd" />
+<img width="1917" height="988" alt="cctask1 2" src="https://github.com/user-attachments/assets/1f3f4089-bb5d-48c8-b63a-84426d921491" />
+<img width="1914" height="990" alt="cctask1 3" src="https://github.com/user-attachments/assets/0afeaed1-e42a-4b2b-ad5e-de67940ce31d" />
 
-# Result:
+<img width="1919" height="983" alt="cctask3 1" src="https://github.com/user-attachments/assets/d3d2d25a-5c7d-4ea4-ba10-80de83c2a084" />
+<img width="1918" height="990" alt="cctask3 2" src="https://github.com/user-attachments/assets/98c1a098-d1e5-4129-80ff-389f0d9e354f" />
+
+## Result:
 Thus an account was created in AWS platform and all the services were explored.
-
 
 
